@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm João Paulo</h1>
+<h3 align="center">Systems Developer for over 10 years.</h3>
+
+- 📫 How to reach me **joaopauloribeiropontes@gmail.com**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/joaopauloribeiropontes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jprpontes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-paulo-pontes) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/joaopauloribeiropontes) 
